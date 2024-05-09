@@ -21,6 +21,14 @@ This dataset was collected by Multi Agent System Laboratory(MASL).
     <img src="img/fig3.png" width = 100% >
 </div>
 
+### 1.4 Point-by-point coordinates(m)
+**Robot1 starting point** : 0, 0
+**Robot2 starting point** : 0, -0.61
+**1st point** : -23.675(±0.219), -4.305(±0.066)
+**2nd point** : 39.825(±0.313), -4.455(±0.071)
+**3rd point** : 39.825(±0.313), -47.355(±0.306)
+* The values in parentheses next to the measurements indicate the error range.
+
 ## IMU Intrinsics
 Will be added soon.
 
