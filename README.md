@@ -27,14 +27,15 @@ This dataset was collected by Multi Agent System Laboratory(MASL).
 * **1st point** : -23.675(±0.219), -4.305(±0.066)
 * **2nd point** : 39.825(±0.313), -4.455(±0.071)
 * **3rd point** : 39.825(±0.313), -47.355(±0.306)
+
 [The values in parentheses next to the measurements indicate the error range.]
 
 ## IMU Intrinsics
 Will be added soon.
 
-###Robot1.
+### Robot1.
 
-###Robot2.
+### Robot2.
 
 ## 3. Downloads
 link: Will be added soon.
