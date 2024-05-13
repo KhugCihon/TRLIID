@@ -32,8 +32,7 @@ The values in parentheses next to the measurements indicate the error range.
 
 ## IMU Intrinsics
 ### Robot1.
-| Bias | Scale | temp. Coef. |
-
+|   | Bias | Scale | temp. Coef. |
 |:---|---:|---:|---:|
 
 | Acceleration X | -0.001136 | 0.999263 | -0.000137 |
@@ -55,8 +54,7 @@ The values in parentheses next to the measurements indicate the error range.
 | Magnetometer Z | 3.329172 | 0.573119| 0.242445 |
 
 ### Robot2.
-| Bias | Scale | temp. Coef. |
-
+|   | Bias | Scale | temp. Coef. |
 |:---|---:|---:|---:|
 
 | Acceleration X | 0.009735 | 0.998774 | -0.000063 |
