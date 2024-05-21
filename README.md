@@ -30,7 +30,12 @@ This dataset was collected by **Multi Agent System Laboratory(MASL)**.
 
 The values in parentheses next to the measurements indicate the error range.
 
-## IMU Intrinsics
+## 2.1 Floor Plan
+<div align="center">
+    <img src="img/Digital_building_2nd_floor.jpg" width = 100% >
+</div>
+
+## 2.2 IMU Intrinsics
 ### Robot1.
 |   | Bias | Scale | temp. Coef. |
 |:---|---:|---:|---:|
