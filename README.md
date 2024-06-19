@@ -11,17 +11,22 @@ This dataset was collected by **Multi Agent System Laboratory(MASL)**.
     <img src="img/fig1.png" width = 100% >
 </div>
 
-### 1.2 Floor plan with robot paths
+## 1.2 Floor Plan
+<div align="center">
+    <img src="img/Digital_building_2nd_floor.jpg" width = 100% >
+</div>
+
+### 1.3 Floor plan with robot paths
 <div align="center">
     <img src="img/fig2.png" width = 100% >
 </div>
 
-### 1.3 Real environments
+### 1.4 Real environments
 <div align="center">
     <img src="img/fig3.png" width = 100% >
 </div>
 
-### 1.4 Point-by-point coordinates(m)
+### 1.5 Point-by-point coordinates(m)
 * **Robot1 starting point** : 0, 0
 * **Robot2 starting point** : 0, -0.61
 * **1st point** : -23.675(±0.219), -4.305(±0.066)
@@ -30,12 +35,8 @@ This dataset was collected by **Multi Agent System Laboratory(MASL)**.
 
 The values in parentheses next to the measurements indicate the error range.
 
-## 2.1 Floor Plan
-<div align="center">
-    <img src="img/Digital_building_2nd_floor.jpg" width = 100% >
-</div>
 
-## 2.2 IMU Intrinsics
+## 2 IMU Intrinsics
 ### Robot1.
 |   | Bias | Scale | temp. Coef. |
 |:---|---:|---:|---:|
